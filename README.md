@@ -1,1 +1,1 @@
-# GitBranchDemo
+This project demonstrates Git branching.
